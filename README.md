@@ -13,5 +13,12 @@
 # Installation
 Go to the releases tab and download the newest version.
 
+# Running The File
+1.Right click on the .exe fle then click on `Run as administrator`
+2.If windows says windows smartscreen blocked this script from running ( I have filed a appeal to microsoft to unflag this file) just bypass it by clicking on more info and then select run anyway
+3.Allow file to run as administrator.
+4.The file will open cmd prompt and run!
+
 # Important
 This is not illegal to my knowledge. I would add a icon to the file but if i did i would have to use a software and i couldnt find any that wouldnt install viruses when the .exe file is ran.
+And no this doesnt contain viruses i have appealed to microsoft to unflag this file!
